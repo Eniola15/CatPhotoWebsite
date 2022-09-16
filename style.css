@@ -1,0 +1,87 @@
+body {
+    background-color: lightblue;
+    opacity: 1;
+    margin:0;
+    
+    
+}
+
+h1 {
+    color: blue;
+    margin: 15px 25px 15px 130px;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    margin-left: 120px;
+    text-align: center;
+
+}
+
+h3 {
+    margin: 25px 25px 25px 150px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    list-style-type: none;
+}
+li {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 19px;
+    text-align: center;
+    margin: 5px 25px 0px 120px;
+}
+.p1 {
+    text-align: center;
+    margin: 5px 5px 5px 150px;
+}
+
+.img1 {
+    margin: 0px 35px 5px 170px; 
+    width:200px;
+    
+}
+
+img {
+    border: 8px solid violet;
+    border-radius: 20px;
+    margin: 0px 25px 0px 600px;
+    
+}
+.cat3 {
+    width: 650px;
+}
+
+figcaption {
+    font-family: Brush Script MT, Tahoma, Garamond;
+    font-size: 18px;
+    font-style: oblique;
+    margin: 0px 20px 0px 150px;
+    text-align: center;
+}
+fieldset {
+    margin: 25px 25px;
+
+}
+
+.Email {
+    margin: 25px 25px;
+}
+
+.Submit {
+    margin: 25px 25px 25px 110px;
+    padding: 10px 20px;
+    border-radius: 2px;
+    border: 8px solid green;
+}
+
+.p2 {
+    text-align: center;
+
+}
